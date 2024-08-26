@@ -25,7 +25,7 @@ In this a model is created to find the progression of diabetes using the availab
 **Performance Metrics:** Evaluate the model on the test data using metrics such as MSE and R² Score to assess how well the model predicts diabetes progression.
 **Interpretation:** Analyze the results to provide insights into the model's effectiveness and its implications for understanding diabetes progression.
 
-### **6.Improving the Model **
+### **6.Improving the Model**
 **Model Optimization:** Experiment with different ANN architectures, such as varying the number of hidden layers and neurons, trying different activation functions, or using alternative optimizers. 
 **Hyperparameter Tuning:** Adjust hyperparameters like learning rate, batch size, and number of epochs to improve model performance. 
 **Performance Improvement:** Document the changes made and compare the performance before and after tuning to highlight the most effective model configuration.
